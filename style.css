@@ -1,0 +1,388 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+	
+img {position: absolute;}
+	
+
+.targeteye{
+  left: 961px;
+  top: 571px;
+	}
+
+.circle{
+  left: 1293px;
+  top: 371px;
+}
+
+.red {
+  left: 337px;
+  top: 997px;
+}
+
+.text{
+	background-color: #4E3A84;
+	text-align: center;
+}
+
+.mom{
+	height:450px;
+	left: 50%;
+	margin-top:-225px;
+	margin-left:-225px;
+	position:absolute;
+	top:50%;
+	width:450px;
+}
+
+
+.h3{
+	background:#6C2604;
+	text-align: center;
+}
+
+.lettinggo{
+	height:300px;
+	left:50%;
+	margin-top:-150px;
+	margin-left:-200px;
+	position:absolute;
+	top:50%;
+	width:400px;
+	
+}
+
+.byredeye{
+  left: 322px;
+  top: 1062px;
+  
+}
+
+.h4{
+	background:#AD5C5D;
+	text-align: center;
+}
+
+.mulan{
+	height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-300px;
+	position:absolute;
+	top:50%;
+	width:600px;
+}
+
+.cornea{
+  left: 307px;
+  top: 1098px;
+	
+}
+
+.h5{
+	background-color: #646D5F;
+	text-align: center;
+}
+
+.flower{
+	height:400px;
+	left: 50%;
+	margin-top:-75px;
+	margin-left:-200px;
+	position:absolute;
+	top:50%;
+	width:400px;
+	
+}
+
+.sclera{
+  left: 240px;
+  top: 1053px;
+  
+}
+.h6{
+	background-color:#42589B;
+	text-align: center;
+}
+
+.heal{
+	height:400px;
+	left: 50%;
+	margin-top:-50px;
+	margin-left:-300px;
+	position:absolute;
+	top:50%;
+	width:600px;
+	
+}
+
+.retinal{
+	
+  left: 587px;
+  top: 1200px;
+}
+
+.h7{
+	background-color:#5A4F37;
+	text-align: center
+}
+
+.rights{
+	height:365px;
+	left: 50%;
+	margin-top:-182.5px;
+	margin-left:-348px;
+	position:absolute;
+	top:50%;
+	width:696px;
+	
+}
+
+ .muscle{
+ 
+  left: 375px;
+  top: 1264px;
+
+}
+
+.h8{
+	background-color:#381334;
+	text-align: center;
+}
+
+.people{
+	height:500px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-250px;
+	position:absolute;
+	top:50%;
+	width:500px;
+}
+
+.upmuscle{
+  left: 375px;
+  top: 928px;
+
+}
+
+.h9{
+	background-color: #032123;
+	text-align: center;
+	
+}
+
+.kid{
+	height:300px;
+	left: 50%;
+	margin-top:-20px;
+	margin-left:-225px;
+	position:absolute;
+	top:50%;
+	width:450px;
+}
+
+.bigapple{
+  
+  left: 429px;
+  top: 488px;
+  
+}
+.h10{
+	background-color: #F8F6F6;
+	text-align: center;
+}
+
+.card{
+		height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-150px;
+	position:absolute;
+	top:50%;
+	width:300px;
+}
+
+.line{
+  left: 1378px;
+  top: 516px;
+  
+}
+
+.h11{
+	background-color:#8CB68C;
+	text-align: center;
+}
+
+.u{
+	height:600px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-250px;
+	position:absolute;
+	top:50%;
+	width:500px;
+}
+
+.yellow{
+	
+  left: 1251px;
+  top: 597px;
+  
+}
+
+.h12{
+	background-color: #926363;
+	text-align: center
+}
+
+.dad{
+		height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-350px;
+	position:absolute;
+	top:50%;
+	width:700px;
+}
+
+.tube {
+  
+  left: 1117px;
+  top: 438px;
+}
+
+.h13{
+	background-color:#DDE39E;
+	text-align: center;
+}
+
+.house{
+		height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-288px;
+	position:absolute;
+	top:50%;
+	width:576px;
+	
+}
+
+.bluebrain{
+  left: 1534px;
+  top: 222px;
+  
+}
+
+.h14{
+	background-color:#02171E;
+	text-align: center;
+}
+
+.sun{	height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-300px;
+	position:absolute;
+	top:50%;
+	width:600px;
+	
+}
+
+.bbyapple{
+	
+  left: 1068px;
+  top: 637px;
+}
+
+.h15{
+	background-color:#502428;
+	text-align: center;
+}
+
+.hard{
+	height:600px;
+	left: 50%;
+	margin-top:-50px;
+	margin-left:-250px;
+	position:absolute;
+	top:50%;
+	width:500px;
+}
+
+.blue{
+  
+  left: 964px;
+  top: 610px;
+}
+
+.h16{
+	background-color:#1E3D79;
+	text-align: center;
+}
+
+.btrue{
+	height:400px;
+	left: 50%;
+	margin-top:-200px;
+	margin-left:-150px;
+	position:absolute;
+	top:50%;
+	width:300px;
+}
+
+.brain{
+  left: 916px;
+  top: 598px;
+  
+}
+
+
+.h17{
+	background-color: #74ABA9;
+	text-align: center;
+}
+
+.cow{height:500px;
+	left: 50%;
+	margin-top:-px;
+	margin-left:-250px;
+	position:absolute;
+	top:50%;
+	width:500px;
+}
+
+.word{
+	
+  left: 110px;
+  top: 173px;
+}
+
+.h18{
+	background-color:rgba(118,115,115,1.00);
+	text-align: center;
+	
+}
+
+.pause{
+	height:500px;
+	left: 50%;
+	margin-top:-250px;
+	margin-left:-250px;
+	position:absolute;
+	top:50%;
+	width:500px;
+}
+
+
+
+
+
+
+
+
+
+	
